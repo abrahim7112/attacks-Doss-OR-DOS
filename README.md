@@ -1,3 +1,5 @@
-# js-7as6p5
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-7as6p5)
+# Denial-of-service-attacks
+It is considered one of the most powerful tools in using a denial of service attack
+# use
+Usage example
+`ruby attack.rb`
